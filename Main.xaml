@@ -274,7 +274,7 @@
                         </ui:Target>
                       </ui:SendHotkey.Target>
                     </ui:SendHotkey>
-                    <WriteLine DisplayName="Write Line Final Draft" sap:VirtualizedContainerService.HintSize="333.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Project  Successfully" />
+                    <WriteLine DisplayName="Write Line Final Draft" sap:VirtualizedContainerService.HintSize="333.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text=" Project Completed  Successfully" />
                   </Sequence>
                 </ActivityAction>
               </ui:WindowScope.Body>
